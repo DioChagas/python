@@ -9,3 +9,5 @@ Adivinhar a sequência correta de cores
 3.	Cada jogador terá no máximo 6 chances para adivinhar a senha escolhida pelo computador;
 4.	O  jogador  que  adivinhar  primeiro  a  senha  será  o  vencedor.  Caso  nenhum  deles  acerte  a combinação, vencerá aquele que tiver a maior soma de pontos;
 5.	Cada acerto parcial dá ao jogador 3 pontos, e cada acerto total vale 7 pontos.
+
+## Boa sorte!  :D
